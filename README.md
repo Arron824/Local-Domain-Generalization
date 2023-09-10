@@ -13,8 +13,9 @@ Local Domain Generalization with Low-rank Constraint for EEG-based Emotion Recog
 * scipy 1.3.1
 
 # Preliminaries
-* Prepare dataset: [SEED](https://bcmi.sjtu.edu.cn/~seed/index.html) and [SEED-IV](https://bcmi.sjtu.edu.cn/~seed/index.html)
+* Prepare dataset: [SEED](https://bcmi.sjtu.edu.cn/~seed/index.html) and [DEAP](http://www.eecs.qmul.ac.uk/mmv/datasets/deap/)
 
 # Acknowledgement
+
 * The implementation codes of several domain adversarial DA methods have been built on the [dalib](https://dalib.readthedocs.io/en/latest/index.html) code base 
 
